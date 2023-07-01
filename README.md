@@ -1,1 +1,1 @@
-# Project about TSP_GeneticAL
+### ssu-ai_project
