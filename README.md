@@ -1,1 +1,1 @@
-### ssu-ai_project
+### ssu-ai_project(refactoring version)
